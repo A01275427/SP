@@ -1,0 +1,4 @@
+mover,a
+mover,d
+agregar,1005,5
+retirar,1007,2

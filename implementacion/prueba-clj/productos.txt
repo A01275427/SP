@@ -1,0 +1,5 @@
+1001,Teclado inalámbrico,15,29.99
+1002,Mouse óptico,20,14.99
+1003,Monitor 24 pulgadas,10,199.99
+1004,Impresora láser,5,89.99
+1005,Webcam HD,25,34.99
